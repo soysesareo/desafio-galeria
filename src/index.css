@@ -1,0 +1,41 @@
+body {
+    color: #ccc;
+    background-color: black;
+}
+
+.text-header {
+
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.line-header {
+    height: 0.1px;
+    background-color: grey;
+    margin: auto;
+    width: 95%;
+}
+
+.text-footer {
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    text-align: center;
+}
+
+.line-footer {
+    height: 0.1px;
+    background-color: grey;
+    margin: auto;
+    width: 95%;
+    margin-bottom: 2%;
+}
+
+.container {
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
